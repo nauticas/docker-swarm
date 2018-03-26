@@ -1,1 +1,2 @@
-# Documentasi-TCC
+# Documentasi Docker swarm
+## detail dokumentasi
